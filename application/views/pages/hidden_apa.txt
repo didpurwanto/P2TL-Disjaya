@@ -1,0 +1,23 @@
+<head>
+<script type="text/javascript" src="<?php echo base_url("public/js/hidden.js")?>"></script>
+<script>
+$(document).ready(function(){
+  $("button").click(function(){
+    $("p").slideToggle();
+  });
+});
+</script>
+</head>
+<body>
+
+<p>This is a paragraph.</p>
+<button>CEK</button>
+
+
+
+
+
+<link href="<?php echo base_url("public/css/hidden.css")?>" rel="stylesheet" />
+<script type="text/javascript" src="<?php echo base_url("public/js/hidden.js")?>"></script>
+  
+

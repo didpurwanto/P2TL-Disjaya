@@ -1,0 +1,15 @@
+cuma bisa cetak 1 di viewny (dalam code udah bisa di tambah terus jumlahnya)
+
+ganti nama kesimpulan
+drop indikasi awal di hasil p2tl
+
+drop temuan di anev
+
+tambah validasi ke pengesahan_sph
+
+
+fungsi yang belum
+
+-register
+-login with dc
+-p2tl cetak htmlnya (non jga)

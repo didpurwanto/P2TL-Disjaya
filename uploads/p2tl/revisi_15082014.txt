@@ -1,0 +1,29 @@
+testing
+
+16. update cetak p2tl dan non p2tl (CLEAR)
+
+8. view pada rekap laporan (query sudah jadi, tinggal di tampilkan di design) (udah didesain PALA LO DAH DI DESIGN!!!!!!)
+
+12. Login dc (CLEAR)
+
+15. update PDM
+
+3. kode di ganti kata-kata (CLEAR)
+
+4. datepicker gk boleh lewat dari hari sekarang (disabled) (CLEAR)
+
+5. combo box pinalti diganti pake code(p2tl) (CLEAR)
+
+6. session bermasalah di input non p2tl (CLEAR)
+
+7. tidak perlu komentar lagi di pop up list all lap komentar (CLEAR)
+
+9. pengurutaan menu (p2tl > non p2tl) (CLEAR)
+
+11. yg di upload cuma jpg|png|txt|doc|docx (CLEAR)
+
+13. komentar(CLEAR)
+
+1. di simplifikasi dashboardnya menjadi yang ad d papan tulis (CLEAR)
+
+2.tambahkan tabel di melaporkan (status = a_0) (CLEAR)

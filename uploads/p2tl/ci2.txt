@@ -1,0 +1,12 @@
+http://ellislab.com/forums/viewthread/145901/   (2 database)
+
+insert user (INSERT INTO "CTPT"."USER" (USERNAME, KDAREA, NAMA_USER, EMAIL_USER, PASSWORD_USER, HAK_AKSES, STATUS_USER, TANGGAL_DAFTAR) VALUES ('admin', '55000', 'fahmi', 'fahmi.armand@yahoo.com', 'qwerty', '0', '0', TO_DATE('2014-08-05 08:55:58', 'YYYY-MM-DD HH24:MI:SS')))
+
+
+//kirim email
+
+http://stackoverflow.com/questions/1555145/sending-email-with-gmail-smtp-with-codeigniter-email-library
+
+//video validasi di youtube dah d download
+
+https://ellislab.com/codeigniter/user-guide/helpers/date_helper.html

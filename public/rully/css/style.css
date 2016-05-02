@@ -1,0 +1,139 @@
+body {
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:14px;
+}
+
+.header {
+  background: #E03F00;
+  width: 100%;
+  height: 40px;
+}
+
+.header-inner { padding: 10px; }
+
+.pull-left { float: left; }
+.pull-right { float: right; }
+.lh-fix { line-height: 0 !important; }
+.clearfix { *zoom: 1; }
+.hide { display: none; }
+.show { display: block; }
+.no-margin { margin: 0 !important; }
+.no-padding { padding: 0 !important; }
+.light-text { color: #808080; }
+.small-text { font-size: 13px; }
+.strong { font-weight: bold; }
+
+.logo { vertical-align: middle; }
+
+.container {
+  width: 650px;
+  height: 100%;
+  margin: 0 auto;
+}
+
+.content {
+  width: 450px;
+  margin: 0 auto;
+  min-height: 520px;
+
+}
+
+.comment_box {
+	background-color:#D3E7F5; border-bottom:#ffffff solid 1px; padding-top:3px
+}
+
+a {
+	text-decoration:none;
+	color:#d02b55;
+}
+
+a:hover	{
+	text-decoration:underline;
+	color:#d02b55;
+}
+
+*{
+	margin:0;padding:0;
+}
+	
+ol.timeline {
+	list-style:none;
+	font-size:1.2em;
+}
+
+ol.timeline li{
+	display:none;
+	position:relative;
+	padding:.7em 0 .6em 0;
+}
+
+ol.timeline li:first-child{}
+	
+#main {
+	width:500px;
+	margin-top:20px;
+	font-family:"Trebuchet MS";
+}
+
+#ulin {
+	width:300px;
+	border: 1px solid;
+	float: right;
+}
+
+#flash {
+	margin-left:100px;
+}
+
+.box {
+	height:85px;
+	border-bottom:#dedede dashed 1px;
+	margin-bottom:20px;
+}
+
+input[type='text'] {
+	color:#000000;
+	font-size:14px;
+	border:#CCC solid 1px;
+	height:24px;
+	margin-bottom:10px;
+	width:200px;
+}
+
+textarea {
+	color:#000000;
+	font-size:14px;
+	border:#CCC solid 1px;
+	height:124px;
+	margin-bottom:10px;
+	width:200px;
+}
+
+input:-moz-placeholder{color:#918b8b}
+textarea:-moz-placeholder{color:#918b8b}
+
+button[type="submit"] {
+	cursor: pointer;
+    background-color: #2d2d2d;
+    border-radius: 6px 6px 6px 6px;
+    box-shadow: -2px -1px 3px #2d2d2d inset, 1px 1px 2px #2d2d2d inset, 1px 2px 6px #2d2d2d;
+    color: #fff;
+	font-size: 11px;
+    font-weight: bold;
+    padding: 2px;
+    text-shadow: 0 0 1px #ccc;
+	width: 80px;
+}
+
+.page-footer p, .page-header p {
+  font-size: 11px;
+  line-height: 16px;
+}
+
+.page-footer {
+  padding: 0;
+  bottom: 0;
+  margin-bottom: 30px;
+  border-top: 1px dotted #e3e3e8;
+  width: 650px;
+}

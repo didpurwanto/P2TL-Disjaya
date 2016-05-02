@@ -1,0 +1,50 @@
+1.warrior+monk+thief
+2.monk+fighter+warrior
+3.thief+shaman+monk
+4.inquistor+warlock+monk
+5.sword dancer+figther+thief
+6.mystic+monk+thief
+7.priest+priest+figther
+8.thief+monk+thief
+9.shaman+sorceress+gunner
+10.warrior+archer+gunner
+11.fighter+priest+archer
+13.archer+priest+inquistor
+14.warlock+gunner+warlock
+15.mystic+mystic+sword dancer
+16.warrior+sorceress+shaman
+17.shaman+fighter+warlock.
+18.monk+sorceress+archer
+19. thief+monk+??
+20. sorceress + thief+sd
+21. thief+shaman+mystic
+22. archer+mystic+warrior = gunner
+23. monk+archer+gunner = prist
+ground of death, tiger hide, metal
+dease 
+sand angel wings
+skandavia spirit of blacksmith
+skandavia bos , leviatan scale
+holy place of burning , leviatan scale
+forgotten queen,white sand
+ground death, worm scale,
+jam 6 sore kurang. senjata SD
+jam 11:00-11:15 SS dancer longyou(malam)
+jam 10:45 claw(malam)
+jam 11:16 rod(malam)
+jam 12:49 Sorcer(weap / unit)dini hari
+gagal unit
+thief+mystic+war= delete thief
+monk+gunner+monk = delete monk
+
+weapon succes
+sword(war)+shaman+book = claw
+claw+book+sword(war) = rod(priest)
+sword(war)+sword(war)+bible = pistol
+bow+rod+book = claw
+claw+bow+rod = rod
+claw+book+gun = marble
+gagal
+bible+shaman+sword(war) = delete shaman
+sword(war)+shaman+sorc = delete sorc
+swor(war)+claw+bow = delete sword
